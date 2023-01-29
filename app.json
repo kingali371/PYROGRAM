@@ -51,7 +51,7 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Africa/Cairo",
+      "value": "Asia/Damascus",
       "required": false
     }
   },
@@ -78,5 +78,5 @@
   },{
     "url": "heroku/python"
   }],
-  "stack": "heroku-22"
+  "stack": "heroku-20"
 }
